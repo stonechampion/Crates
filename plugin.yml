@@ -1,0 +1,5 @@
+name: Crates
+main: com.mcr.Crates
+version: 1.0
+commands: 
+  crates:
